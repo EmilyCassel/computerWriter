@@ -35,7 +35,7 @@ This application uses handlebars, mysql2 , sequalize, javascript and express.
 
 
 ## Challenges 
-A major challenge with this is the scratch sql. I’m still not sure I got it completely correct. 
+A major challenge with this is the sequalize. I’m still not sure I got it completely correct. 
 
 ## Successes
 a success is the learning. 
